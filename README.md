@@ -1,4 +1,4 @@
-# Basic Scene
+# Scene
 
   In this first implementation, I did a basic scene using only 'HTML' and 'Javascript'.
 
