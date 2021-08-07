@@ -87,6 +87,6 @@ After this set the size of the render and render the scene and the camera.
 renderer.setSize(sizes.width,sizes.height)
 renderer.render(scene, camera)
 ```                                                      
-This will render the scene with a cyan cube.
+This will render the scene with a cyan colored cube.
 
 ![basicScene](https://user-images.githubusercontent.com/39789077/128597042-f21f5331-d650-4f4f-a91a-66e9073394dd.PNG)
