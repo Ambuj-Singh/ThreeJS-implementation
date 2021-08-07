@@ -1,6 +1,6 @@
 # Basic Scene
 
-  In this first implementation, I did a very basic scene using only 'HTML' and 'Javascript'.
+  In this first implementation, I did a basic scene using only 'HTML' and 'Javascript'.
 
   The file three.min.js was downloaded from [ThreeJS](https://threejs.org/).
 
