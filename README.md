@@ -62,8 +62,6 @@ You can add multiple cameras too to the scene and switch in between them.
 
 Now at last in order to actaully see the cube we created in that scene we will render it using a renderer.
 
-![basicScene](https://user-images.githubusercontent.com/39789077/128597042-f21f5331-d650-4f4f-a91a-66e9073394dd.PNG)
-
 In order to render a scene, we need a canvas. Canvas is like a drawing board for graphics using javascript. It is a 3D drawing space and is an element of html.                                                      
 
 We will now add the canvas to our body.                                                      
@@ -90,3 +88,5 @@ renderer.setSize(sizes.width,sizes.height)
 renderer.render(scene, camera)
 ```                                                      
 This will render the scene with a cyan cube.
+
+![basicScene](https://user-images.githubusercontent.com/39789077/128597042-f21f5331-d650-4f4f-a91a-66e9073394dd.PNG)
