@@ -30,7 +30,7 @@ const mesh = new THREE.Mesh(geometry, material)
 scene.add(mesh)
 ```
 
-##Creating a Camera
+## Creating a Camera
 
 A camera is used to look at the scene from a given angle.
 You can give it a viewing angle, width and height to create a resolution.
