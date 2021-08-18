@@ -111,7 +111,7 @@ Also, `i^2 = j^2 = k^2 = ijk = -1`
 
 The main advantage of quaternion over rotation using euler angles is that it solves the [gimbal lock problem](https://en.wikipedia.org/wiki/Gimbal_lock).
 
-Gimbal lock is when two of your axes aligns it results in loss of one degree of freedom. Gimbal lock can be overcome but creates problem when animating. The video link given below will be helpful to understand it better.
+Gimbal lock is when two of your axes aligns it results in loss of one degree of freedom. Gimbal lock can be unlocked but creates problem when animating. The video link given below will be helpful to understand it better.
 
 This video can explain gimbal lock in a better way - [Gimbal Lock](https://www.youtube.com/watch?v=zc8b2Jo7mno&t=8s)
 
