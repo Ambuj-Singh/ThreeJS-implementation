@@ -149,7 +149,7 @@ mesh.quaternion.set(0.95,0.31,0,0.0) // mesh.quaternion.set(x,y,z,w)
 scene.add(mesh)
 ```
 The parameters x, y, z and w corresponds to b, c, d and a in `q = a + bi + cj + dk` respectively.
-This will rotate the cube 72 degrees about the `z-axis` (the blue one).
+This will rotate the cube 18 degrees about the `z-axis` (the blue one).
 
 ![z rotation](https://user-images.githubusercontent.com/39789077/129888955-559df7fc-dd73-41e6-a62f-e41e93edb993.png)
 
