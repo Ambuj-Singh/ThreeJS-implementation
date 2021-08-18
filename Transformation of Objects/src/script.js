@@ -9,7 +9,7 @@ const geometry = new THREE.BoxGeometry(1,1,1)
 
 const material = new THREE.MeshBasicMaterial({color: 'cyan'});
 const mesh = new THREE.Mesh(geometry, material)
-mesh.quaternion.set(0.54,0.0,0,0.84)
+mesh.quaternion.set(0.95,0.31,0,0.0)
 scene.add(mesh)
 
 //sizes
