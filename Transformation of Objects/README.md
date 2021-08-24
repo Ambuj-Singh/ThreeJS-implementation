@@ -140,7 +140,7 @@ Some links to videos from that channel -
 * https://www.youtube.com/watch?v=zjMuIxRvygQ
 * https://www.youtube.com/watch?v=d4EgbgTm0Bg&t=1265s
 
-There is also a site called [Eater.net](https://eater.net/quaternions) that gives us an interactive way to play around with quaternions and build some intuition to be able to understand them better. 
+There is also a site called [Eater.net](https://eater.net/quaternions) that gives us an interactive way to play around with quaternions and build some intuition to understand them better. 
 
 Now to implement [quaternion in Three.js](https://threejs.org/docs/index.html?q=quate#api/en/math/Quaternion) - 
 
