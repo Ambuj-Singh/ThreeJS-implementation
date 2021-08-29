@@ -21,7 +21,7 @@ This rate of change in pictures per second is used to standardize how many pictu
 
 ## Using window.requestAnimationFrame() for animation purpose
 
-A Common misconception iabout requestAnimationFrame() is that it animates an object, which is not true, in fact, what this function really do is calls a function whenever a new frame is rendered.
+A Common misconception about requestAnimationFrame() is that it animates an object, which is not true, in fact, what this function really do is calls a function whenever a new frame is rendered.
 
 ```javascript
 
