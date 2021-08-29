@@ -36,7 +36,7 @@ const funct = () =>
 funct()
 ```
 
-In the console below it shows on the right hand side the number funct being print is increasing that is because the **function funct()** is called at every frame and a at a frame rate of 120 frames per second it will print **"funct"** 120 times per second.
+In the console below it shows on the right hand side the number of times funct being printed is increasing that is because the **function funct()** is called at every frame and a at a frame rate of 120 frames per second it will print **"funct"** 120 times per second.
 
 ![console funct](https://user-images.githubusercontent.com/39789077/131253425-51934f3d-cce1-4fc6-a306-5ce1deecd3a7.gif)
 
