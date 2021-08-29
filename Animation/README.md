@@ -8,7 +8,7 @@ Animation can be done in various ways -
 
 Here, we will have a look at animation using [**window.requestAnimationFrame()**](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame).
 
-Also we will explore how to adapt to varying framerates across devices so that the animation remains seamless across all the devices hyou run that animation on.
+Also we will explore how to adapt to varying frame rates of different screens so that the animation remains same across all the screens running that animation.
 
 ## Stop motion animation
 
