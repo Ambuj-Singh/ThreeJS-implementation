@@ -1,4 +1,4 @@
-# Info
+# ThreeJS - Implementation with simple explanation
 
 This implementation is done using webpack.
 Every folder has it's own attached readme.md file that explains the project and it's implementation.
