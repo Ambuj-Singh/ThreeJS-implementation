@@ -80,7 +80,7 @@ Using [rotation property](https://threejs.org/docs/index.html?q=scale#api/en/cor
 
 [Rotation property](https://threejs.org/docs/index.html?q=scale#api/en/core/Object3D.rotation) incorporates [Euler angles](https://en.wikipedia.org/wiki/Euler_angles).
 
-<img src="https://user-images.githubusercontent.com/39789077/129888378-4ac76655-37ff-4590-b147-30de6b8fdc04.gif" width="25%" height="25%" />
+<img src="https://user-images.githubusercontent.com/39789077/129888378-4ac76655-37ff-4590-b147-30de6b8fdc04.gif" width="50%" height="50%" />
 
 Implementation can be done as follows - 
 
